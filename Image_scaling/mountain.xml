@@ -1,0 +1,76 @@
+<root>
+<name>mountain</name>
+<meta>
+<positionX>0</positionX>
+<positionY>0</positionY>
+<positionZ>0</positionZ>
+<pixelSizeX>1</pixelSizeX>
+<pixelSizeY>1</pixelSizeY>
+<pixelSizeZ>1</pixelSizeZ>
+<timeInterval>0</timeInterval>
+<channelName0>ch 0</channelName0>
+</meta>
+<rois/>
+<overlays/>
+<lut>
+<numChannel>1</numChannel>
+<scaler0>
+<cancross>false</cancross>
+<integerdata>true</integerdata>
+<absleftin>0</absleftin>
+<absrightin>255</absrightin>
+<leftin>0</leftin>
+<rightin>255</rightin>
+<leftout>0</leftout>
+<rightout>255</rightout>
+</scaler0>
+<colormap0>
+<name>Custom</name>
+<enabled>true</enabled>
+<type>RGB</type>
+<red rawdata="true">
+<value>78:5e:1:0:1:ff:fe:0:80:0:80:0:80:0:80:4:84:44:c4:24:a4:64:e4:14:94:54:d4:34:b4:74:f4:c:8c:4c:cc:2c:ac:6c:ec:1c:9c:5c:dc:3c:bc:7c:fc:e3:a8:d3:c1:43:50:ac:75:aa:c8:c9:a7:73:70:72:8d:b9:c0:b4:c2:74:d1:6b:31:a7:30:30:aa:b0:74:89:14:52:73:ac:95:52:c9:c9:d6:c0:4f:a8:ab:bd:df:50:88:87:8e:a7:33:ab:dd:2e:91:3b:52:73:73:a1:c8:31:ac:74:e6:e6:51:93:bf:a6:ed:74:ed:73:6f:a8:33:6e:8e:75:d5:90:ac:8d:ac:7e:40:92:20:e2:71:c2:d6:c1:b3:5d:40:8d:ce:da:a9:92:99:a0:59:71:8a:54:b9:7d:dd:af:74:df:ba:3a:79:e8:c8:bf:d9:dd:23:24:5e:e1:e2:83:32:41:a7:22:ee:ad:af:43:2b:ca:c1:40:d2:42:ab:71:d0:ae:c2:de:df:9c:80:ba:61:60:ed:5f:e1:40:d6:44:93:92:d1:9a:c0:af:a9:c2:ab:96:c9:d6:d7:aa:20:22:97:5f:a0:97:99:99:5e:40:b7:e0:ca:7f:71:b5:98:20:60:60:b6:5f:98:98:bb:3f:5e:75:e6:5f:ef:ed:b7:c0:ff:0:ff:0:ff:0:ff:bb:89:8e:35</value>
+</red>
+<green rawdata="false">
+<point>
+<index>0</index>
+<value>0</value>
+</point>
+<point>
+<index>255</index>
+<value>255</value>
+</point>
+</green>
+<blue rawdata="false">
+<point>
+<index>0</index>
+<value>0</value>
+</point>
+<point>
+<index>255</index>
+<value>255</value>
+</point>
+</blue>
+<gray rawdata="false">
+<point>
+<index>0</index>
+<value>0</value>
+</point>
+<point>
+<index>255</index>
+<value>0</value>
+</point>
+</gray>
+<alpha rawdata="false">
+<point>
+<index>0</index>
+<value>255</value>
+</point>
+<point>
+<index>255</index>
+<value>255</value>
+</point>
+</alpha>
+</colormap0>
+</lut>
+</root>
